@@ -1,2 +1,3 @@
 # SQL_College_Database
-Class performance of students in college
+
+**Data base creation of student classes in college and and analyzing their performance**
